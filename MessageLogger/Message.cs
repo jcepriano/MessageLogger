@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MessageLogger
+﻿namespace MessageLogger
 {
     public class Message
     {
